@@ -2,7 +2,7 @@
 
 ![systone_logo](https://github.com/Zetaphor/SysTone/assets/3112763/bbbc4f67-e7a6-463e-9d32-26d8bd8f8869)
 
-_Logo by DALL-E, edited by Zetaphor. Application written in collaboration with GPT-4_
+_Logo by DALL-E, edited by Zetaphor. Application and README written in collaboration with GPT-4_
 
 ## Overview
 SysTone is a software project that creates an auditory representation of your computer's performance. It plays oscillating tones where the frequency and modulation are influenced by the CPU's current load, reminiscent of the sounds made by older, mechanically noisier computers.
